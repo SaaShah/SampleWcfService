@@ -1,0 +1,6 @@
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\bin\SampleWcfServiceVS13.dll.config
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\bin\SampleWcfServiceVS13.dll
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\bin\SampleWcfServiceVS13.pdb
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\obj\Debug\SampleWcfServiceVS13.csprojResolveAssemblyReference.cache
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\obj\Debug\SampleWcfServiceVS13.dll
+D:\src\SampleWcfService\SampleWcfServiceVS13\SampleWcfServiceVS13\obj\Debug\SampleWcfServiceVS13.pdb

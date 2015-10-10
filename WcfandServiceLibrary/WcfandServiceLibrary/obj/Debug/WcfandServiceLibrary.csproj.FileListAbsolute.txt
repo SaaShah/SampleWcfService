@@ -1,0 +1,10 @@
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\WcfandServiceLibrary.dll.config
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\WcfandServiceLibrary.dll
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\WcfandServiceLibrary.pdb
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\EntityFramework.dll
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\EntityFramework.xml
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\obj\Debug\WcfandServiceLibrary.dll
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\obj\Debug\WcfandServiceLibrary.pdb
+D:\src\SampleWcfService\WcfandServiceLibrary\WcfandServiceLibrary\obj\Debug\WcfandServiceLibrary.csprojResolveAssemblyReference.cache

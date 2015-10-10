@@ -1,0 +1,5 @@
+D:\src\SampleWcfService\SampleWcfService\SampleWcfService\SampleWcfService\bin\SampleWcfService.dll
+D:\src\SampleWcfService\SampleWcfService\SampleWcfService\SampleWcfService\bin\SampleWcfService.pdb
+D:\src\SampleWcfService\SampleWcfService\SampleWcfService\SampleWcfService\obj\Debug\SampleWcfService.csprojResolveAssemblyReference.cache
+D:\src\SampleWcfService\SampleWcfService\SampleWcfService\SampleWcfService\obj\Debug\SampleWcfService.dll
+D:\src\SampleWcfService\SampleWcfService\SampleWcfService\SampleWcfService\obj\Debug\SampleWcfService.pdb

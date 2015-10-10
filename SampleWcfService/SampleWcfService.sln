@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWcfService", "SampleWcfService\SampleWcfService.csproj", "{089861B8-5B70-4520-B0CF-EFCE6A47B5A6}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SampleWcfService", "SampleWcfService\SampleWcfService.vbproj", "{0EE800E7-626C-492E-BF6F-6C85D2907D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{089861B8-5B70-4520-B0CF-EFCE6A47B5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{089861B8-5B70-4520-B0CF-EFCE6A47B5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{089861B8-5B70-4520-B0CF-EFCE6A47B5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{089861B8-5B70-4520-B0CF-EFCE6A47B5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE800E7-626C-492E-BF6F-6C85D2907D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE800E7-626C-492E-BF6F-6C85D2907D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE800E7-626C-492E-BF6F-6C85D2907D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE800E7-626C-492E-BF6F-6C85D2907D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
